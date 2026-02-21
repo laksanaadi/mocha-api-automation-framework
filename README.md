@@ -1,6 +1,6 @@
-![0_gV7fEaDKRGwpprdj](https://user-images.githubusercontent.com/52916480/180915551-8078bbb0-2cda-4366-b85f-3ff70cf0349d.png)
+<img width="1536" height="768" alt="ChatGPT Image Feb 22, 2026, 05_55_12 AM" src="https://github.com/user-attachments/assets/6bd37877-52ef-45ce-bb50-0352c580beda" />
 
-# Automation API Testing Framework
+# mocha-api-automation-framework
 
 > Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases
 
